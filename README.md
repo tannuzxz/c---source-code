@@ -1,2 +1,2 @@
 # c---source-code
-This repo is about c program source code not all program are silly but some program are usefull asf.
+Welcome if you want a compiled version of any program from above list to check how it's work, find below inside the exe folder.
